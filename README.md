@@ -1,2 +1,6 @@
-# personal_finance_tracker
-This project utilizes user interaction to allow you to track peoples' finances, categorize transactions, generate reports, and set a budget.
+# Personal Finance Tracker
+This project utilizes user interaction through command and menu options in order to perform the functions of a user-friendly personal finance tracker.  Features of this tracker include adding income, recording expenses, categorizing transactions, generating reports, and setting a budget.
+
+
+## Features
+- **Adding Income:** users add income 
